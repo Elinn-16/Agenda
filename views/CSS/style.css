@@ -1,0 +1,7 @@
+.conteiner{
+    justify-content: center;
+    height: 600px;
+    width: 500px;
+    background-color: #FFDEB4;
+    flex-wrap:wrap ;
+}
